@@ -2,6 +2,10 @@
 
 EventEase is a feature-rich event management application built using Blazor, designed to streamline the process of event registration, attendee tracking, and event interaction. This application was developed as part of the **Blazor for Front-End Development Course**, a module in the **Microsoft Front-End Developer Professional Certificate** program.
 
+## Live Demo
+
+Experience EventEase in action: [View Live Demo](https://proud-mud-095041a00.6.azurestaticapps.net)
+
 ## Key Features
 
 - **Interactive Registration Form**:  
@@ -24,3 +28,8 @@ EventEase is a feature-rich event management application built using Blazor, des
 1. Clone the repository:
    ```bash
    git clone https://github.com/waleed-ali-sarwar/EventEaseApp.git
+   ```
+
+## Deployment
+
+This application is deployed and hosted on Azure Static Web Apps. You can access the production version [here](https://proud-mud-095041a00.6.azurestaticapps.net).
